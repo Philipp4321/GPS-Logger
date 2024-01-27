@@ -1,4 +1,4 @@
-This is the source code for a GPS-logger project based on ESP32 uController
+This is the source code of a GPS-logger project based on ESP32 uController.
 
 # Features
 The data logger supports the following components:
@@ -18,5 +18,9 @@ The following dependencies are rewiered:
 * [#include <U8g2lib.h>](https://github.com/olikraus/U8g2_Arduino)
 * [#include <TinyGPSPlus.h>](https://github.com/neosarchizo/TinyGPS)
 
-# Licences
-Free to use.
+# Wiring
+<a href="https://github.com/Philipp4321/GPS-Logger/images/wiring-diagram.png"><img src="./images/wiring-diagram.png" width="500"/></a>
+
+# License
+MIT license, check LICENSE file for more informations.
+
